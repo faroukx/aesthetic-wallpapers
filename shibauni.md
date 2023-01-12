@@ -42,5 +42,8 @@ Robot (file explorer)
 Iphone Apple (file explorer) 
 <img src="https://github.com/faroukx/aesthetic-wallpapers/blob/main/shibainu/iphone.jpeg?raw=true">
 
+Paradise (file explorer) 
+<img src="https://github.com/faroukx/aesthetic-wallpapers/blob/main/shibainu/paradise2.jpeg?raw=true">
+
 
 
