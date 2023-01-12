@@ -36,5 +36,11 @@ Tokyo
 Vibe
 <img src="https://github.com/faroukx/aesthetic-wallpapers/blob/main/shibainu/vibe.jpeg?raw=true">
 
+Robot (file explorer)
+<img src="https://github.com/faroukx/aesthetic-wallpapers/blob/main/shibainu/robot.jpeg?raw=true">
+
+Iphone Apple (file explorer) 
+<img src="https://github.com/faroukx/aesthetic-wallpapers/blob/main/shibainu/iphone.jpeg?raw=true">
+
 
 
